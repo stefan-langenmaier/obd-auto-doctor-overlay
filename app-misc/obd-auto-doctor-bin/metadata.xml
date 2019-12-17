@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>stefan.langenmaier@gmail.com</email>
+		<name>Stefan Langenmaier</name>
+	</maintainer>
+	<longdescription>OBD Auto Doctor</longdescription>
+	<use>
+		<flag name="bluetooth">Enable this, if you want to automatically pull in the bluetooth dependency.</flag>
+	</use>
+</pkgmetadata>
